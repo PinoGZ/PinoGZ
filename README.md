@@ -86,8 +86,8 @@ Hi, I'm PinoGZ!
 <br/>
 <p align="center">
 	<a href="https://github.com/PinoGZ">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PinoGZ&show_icons=true" alt="PinoGZ">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=PinoGZ" alt="PinoGZ">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PinoGZ&theme=blue-green&show_icons=true" alt="PinoGZ">
+	
 	</a>
 	<br/>
 </p>
@@ -98,7 +98,7 @@ Hi, I'm PinoGZ!
 
 <p align="center">
 	<a href="https://github.com/PinoGZ">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoGZ&langs_count=8&layout=compact" alt="PinoGZ">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinoGZ&theme=blue-green" alt="PinoGZ">
 	</a>
 	<br/>
 <br/>
@@ -114,7 +114,7 @@ Hi, I'm PinoGZ!
 
 If you have any questions about front-end or back-end web development, feel free to <a href="mailto:braislopezescudero@gmail.com">contact me via email</a>.
 
-You can also hire me for freelance projects or full-time opportunities on platforms like <a href="https://www.linkedin.com/in/PinoGZ/">LinkedIn</a>.
+You can also hire me for freelance projects or full-time opportunities on platforms like <a href="https://www.linkedin.com/in/brais-l%C3%B3pez-escudero-911a40250/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
