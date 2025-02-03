@@ -84,12 +84,13 @@ Hi, I'm PinoGZ!
 <br/>
 <summary><b>⚡ PinoGZ's Stats</b></summary>
 <br/>
+
 <p align="center">
 	<a href="https://github.com/PinoGZ">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=PinoGZ&theme=blue-green&show_icons=true" alt="PinoGZ">
 	
-	</a>
-	<br/>
+</a>
+<br/>
 </p>
 <br/>
 
