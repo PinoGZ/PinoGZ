@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">
 Hi, I'm PinoGZ!
 	<a href="https://github.com/PinoGZ" target="_self">
